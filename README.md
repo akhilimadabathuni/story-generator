@@ -2,8 +2,8 @@
 
 An AI-powered web application that brings your imagination to life by generating unique short stories and illustrations from your prompts.
 
-![Storybook Interface](https://i.imgur.com/your-screenshot-url.png) 
-*Note: You can take a screenshot of your running application and upload it to a service like Imgur to replace the URL above.*
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/32f91b63-30b9-4a91-b536-09b437ebdaad" />
+
 
 ---
 
@@ -19,10 +19,10 @@ An AI-powered web application that brings your imagination to life by generating
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: [React](https://reactjs.org/)
-- **AI Story Generation**: [Google Gemini API](https://ai.google.dev/)
-- **AI Image Generation**: [Google Imagen API](https://cloud.google.com/vertex-ai/docs/generative-ai/image/overview)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Frontend**: React
+- **AI Story Generation**: Google Gemini API
+- **AI Image Generation**: Google Imagen API
+- **Styling**: Tailwind CSS
 
 ---
 
