@@ -70,8 +70,4 @@ Make sure you have the following installed on your system:
     ```
 2.  Open your browser and navigate to `http://localhost:3000`.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+--
